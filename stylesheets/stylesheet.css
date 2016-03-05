@@ -239,13 +239,13 @@ a {
   float: left; }
 
 @media screen and (min-width: 64em) {
-  .site-footer {
+  .smaller {
     font-size: 0.9rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
-  .site-footer {
+  .smaller {
     font-size: 0.9rem; } }
 
 @media screen and (max-width: 42em) {
-  .site-footer {
+  .smaller{
     font-size: 0.7rem; } }
