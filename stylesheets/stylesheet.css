@@ -11,8 +11,9 @@ body {
   color: #606c71; }
 
 a {
-  color: #EC3A37;
-  text-decoration: none; }
+  color: #252323;
+  text-decoration: none; 
+  font-weight: bold; }
   a:hover {
     text-decoration: underline; }
 
@@ -58,7 +59,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #eaffea;
-  background-image: linear-gradient(120deg, #eaffea, #dce6f0); }
+  background-image: linear-gradient(120deg, #eaffea, #dce6f0);
+  border-bottom: #2C4386;
+  border-bottom-style: dashed;
+  border-bottom-width: thin; }
 
 @media screen and (min-width: 64em) {
   .page-header {
